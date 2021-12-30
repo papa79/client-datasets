@@ -995,14 +995,14 @@ id	name
 993	Block
 994	Change Group
 995	MSN Messenger Info
-996	MSN Messenger
+996	
 997	Chat with Friends
 998	Log out
 999	Lineage 2 Messenger (Alt+Y)
 1000	Lineage 2 Messenger
 1001	Options
 1002	Chat
-1003	Log in to .NET Passport
+1003	Log in to .NET Passport (DEPRECATED)
 1004	E-mail
 1005	Password
 1006	Online
@@ -1389,7 +1389,7 @@ id	name
 1387	Apprentice
 1388	Heir
 1389	Knight
-1390	Wise Man
+1390	Elder
 1391	Baron
 1392	Viscount
 1393	Count
