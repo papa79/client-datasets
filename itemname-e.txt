@@ -9244,6 +9244,7 @@ id	name	add_name	description	popup	set_ids	set_bonus_desc	set_extra_id	set_extra
 9334	Alphabet - W		a,An custom event item. Create the special word and get a surprise gift!\0	-1	a,	a,	a,	a,	0	0	0	a,
 9335	Alphabet - X		a,An custom event item. Create the special word and get a surprise gift!\0	-1	a,	a,	a,	a,	0	0	0	a,
 9336	Alphabet - Y		a,An custom event item. Create the special word and get a surprise gift!\0	-1	a,	a,	a,	a,	0	0	0	a,
+9337	Alphabet - Z		a,An custom event item. Create the special word and get a surprise gift!\0	-1	a,	a,	a,	a,	0	0	0	a,
 9495	Breath of Eva		a,A gift from the Goddess Eva to the Elves. Instantly restores portion of breathe when used underwater. An "Eva's Dreams" exclusive item.\0	-1	a,	a,	a,	a,	0	0	0	a,
 9500	GM Teleport Book		a,A special item used for administrative purposes.\0	-1	a,	a,	a,	a,	0	0	0	a,
 9501	GM Buff Book		a,A special item used by administration for testing purposes.\0	-1	a,	a,	a,	a,	0	0	0	a,
