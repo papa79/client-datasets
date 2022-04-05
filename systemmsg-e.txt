@@ -1518,7 +1518,7 @@ id	UNK_0	message	group	rgba[0]	rgba[1]	rgba[2]	rgba[3]	item_sound	sys_msg_ref	UN
 1516	1	The target is unavailable for seeding.	0	79	9B	B0	FF	ItemSound3.sys_shortage		0	0	0	0	0		none
 1517	1	Failed in Blessed Enchant. The enchant value of the item became 0.	0	79	9B	B0	FF	ItemSound3.sys_enchant_failed		0	0	0	0	0		none
 1518	1	You do not meet the required condition to equip that item.	0	79	9B	B0	FF	ItemSound3.sys_impossible		0	0	0	0	0		none
-1519	1	Your pet has been killed!  Make sure you resurrect your pet within 20 minutes or your pet and all of it's items will disappear forever!	0	A0	D7	FE	FF			0	0	0	0	0		none
+1519	1	Your pet has died!  Make sure you resurrect your pet within 120 minutes or your pet and all of it's items will disappear forever!	0	A0	D7	FE	FF			0	0	0	0	0		none
 1520	1	Servitor passed away.	0	79	9B	B0	FF			0	0	0	0	0		none
 1521	1	Your servitor has vanished!  You'll need to summon a new one.	0	79	9B	B0	FF			0	0	0	0	0		none
 1522	1	Your pet's corpse has decayed!	0	79	9B	B0	FF			0	0	0	0	0		none
