@@ -140,7 +140,7 @@ id	name	description	rgb[0]	rgb[1]	rgb[2]	reserved1
 20147	Hobgoblin		9C	E8	A9	-1
 20148	Hungry Spirit		9C	E8	A9	-1
 20149	Iron Golem		9C	E8	A9	-1
-20150	King Bugbear		9C	E8	A9	-1
+20150	King Bugbear	Quest Monster	0	80	FF	-1
 20151	Kobold		9C	E8	A9	-1
 20152	Lizardman		9C	E8	A9	-1
 20153	Magical Weaver		9C	E8	A9	-1
@@ -336,8 +336,8 @@ id	name	description	rgb[0]	rgb[1]	rgb[2]	reserved1
 20371	Mist Terror		9C	E8	A9	-1
 20372	Baraq Orc Fighter		9C	E8	A9	-1
 20373	Baraq Orc Warrior Leader		9C	E8	A9	-1
-20374	Baranka's Guard		9C	E8	A9	-1
-20375	Baranka's Escort		9C	E8	A9	-1
+20374	Varangka's Guard		9C	E8	A9	-1
+20375	Varangka's Escort		9C	E8	A9	-1
 20376	Varikan Brigand Leader		9C	E8	A9	-1
 20377	Varika's Bandit		9C	E8	A9	-1
 20378	Stone Giant		9C	E8	A9	-1
@@ -2843,7 +2843,7 @@ id	name	description	rgb[0]	rgb[1]	rgb[2]	reserved1
 27036	Calpico	Quest Monster	0	80	FF	-1
 27037	Calpico's Goons	Quest Monster	0	80	FF	-1
 27038	Cat's Eye Bandit	Quest Monster	0	80	FF	-1
-27041	Baranka's Messenger	Quest Monster	0	80	FF	-1
+27041	Varangka's Messenger	Quest Monster	0	80	FF	-1
 27042	Orc Escort	Quest Monster	0	80	FF	-1
 27043	Varangka's Tracker	Quest Monster	0	80	FF	-1
 27044	Kasha Bear Totem Spirit	Quest Monster	0	80	FF	-1
@@ -3559,7 +3559,7 @@ id	name	description	rgb[0]	rgb[1]	rgb[2]	reserved1
 30615	Voltar	Breka Chief	9C	E8	A9	-1
 30616	Kepra	Enku Chief	9C	E8	A9	-1
 30617	Burai	Turek Chief	9C	E8	A9	-1
-30618	Harak	Leunt Chief	9C	E8	A9	-1
+30618	Harak	Tunath Chief	9C	E8	A9	-1
 30619	Driko	Vuku Chief	9C	E8	A9	-1
 30620	Emily		9C	E8	A9	-1
 30621	Nikola	Maestro	9C	E8	A9	-1
